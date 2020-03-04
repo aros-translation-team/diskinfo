@@ -8,7 +8,7 @@ Informacije o Disku
 ; Disk Info
 ;
 MSG_ERROR_HEADER
-POGRE≈†KA
+POGRE©KA
 ; ERROR
 ;
 MSG_ERROR_OK
@@ -44,11 +44,11 @@ Olivier Adam
 ; Olivier Adam
 ;
 MSG_COPYRIGHT
-¬å 2006-2009 AROS Dev Team
-; ≈†2006-2009 AROS Dev Team
+å 2006-2009 AROS Dev Team
+; ©2006-2009 AROS Dev Team
 ;
 MSG_USED
-Iskori≈°tenog prostora
+Iskoriπtenog prostora
 ; Used space
 ;
 MSG_FREE
@@ -60,7 +60,7 @@ Kapacitet
 ; Capacity
 ;
 MSG_BLOCK_SIZE
-Veliƒçina u Blokovima
+VeliËina u Blokovima
 ; Block size
 ;
 MSG_BLOCKS
@@ -76,11 +76,11 @@ Status
 ; Status
 ;
 MSG_READABLE
-ƒåitljiv
+»itljiv
 ; Readable
 ;
 MSG_READABLE_WRITABLE
-ƒåitaj/pi≈°i
+»itaj/piπi
 ; Readable/writable
 ;
 MSG_VALIDATING
@@ -96,7 +96,7 @@ jedinica
 ; unit
 ;
 MSG_DOSDEVICE
-DOS Ureƒëaj:
+DOS Ureaj:
 ; DOS Device:
 ;
 MSG_DEVICEINFO
@@ -104,14 +104,14 @@ Spojen na:
 ; Connected on:
 ;
 MSG_FILESYSTEM
-Datoteƒçni Sustav:
+DatoteËni Sustav:
 ; FileSystem:
 ;
 MSG_PACKETDEVICE
-Packet ureƒëaj
+Packet ureaj
 ; Packet Style device
 ;
 MSG_IOFSDEVICE
-IOFS ureƒëaj
+IOFS ureaj
 ; IOFS Style device
 ;
