@@ -1,0 +1,117 @@
+## version $VER: diskinfo.catalog 2.0 (28.12.2020)
+## language türkçe
+## codeset 12
+;
+;
+MSG_TITLE
+Disk Bilgisi
+; Disk Info
+;
+MSG_ERROR_HEADER
+HATA
+; ERROR
+;
+MSG_ERROR_OK
+_TAMAM
+; _OK
+;
+MSG_ERROR_LOCALE
+Yerel ayar başlatılamıyor.
+; Can't initialize locale.
+;
+MSG_ERROR_CLASSES
+Özel sınıflar başlatılamıyor.
+; Can't initialize custom classes.
+;
+MSG_DESCRIPTION
+Disk Simge Bilgisi
+; Disk Icon Informations
+;
+MSG_PERCENTFULL
+%ld %% Dolu
+; %ld %% Full
+;
+MSG_FORMAT
+Biçimlendir
+; Format
+;
+MSG_UNKNOWN
+Bilinmiyor
+; Unknown
+;
+MSG_AUTHOR
+Olivier Adam
+; Olivier Adam
+;
+MSG_COPYRIGHT
+\xa9 2006-2019, AROS Geliştirme Takımı
+; \xa9 2006-2019, The AROS Development Team
+;
+MSG_USED
+Kullanılan alan
+; Used space
+;
+MSG_FREE
+Boş alan
+; Free space
+;
+MSG_SIZE
+Kapasite
+; Capacity
+;
+MSG_BLOCK_SIZE
+Blok boyutu
+; Block size
+;
+MSG_BLOCKS
+bloklar
+; blocks
+;
+MSG_BYTES
+bayt
+; bytes
+;
+MSG_STATUS
+Durum
+; Status
+;
+MSG_READABLE
+Okunabilir
+; Readable
+;
+MSG_READABLE_WRITABLE
+Okunabilir/yazılabilir
+; Readable/writable
+;
+MSG_VALIDATING
+Doğrulanıyor
+; Validating
+;
+MSG_NAME
+Veri Birimi Adı
+; Volume Name
+;
+MSG_UNIT
+birim
+; unit
+;
+MSG_DOSDEVICE
+DOS Aygıtı:
+; DOS Device:
+;
+MSG_DEVICEINFO
+Bağlandı:
+; Connected on:
+;
+MSG_FILESYSTEM
+Dosya Sistemi:
+; FileSystem:
+;
+MSG_PACKETDEVICE
+Paket Stili aygıtı
+; Packet Style device
+;
+MSG_IOFSDEVICE
+IOFS Sitili aygıtı
+; IOFS Style device
+;
