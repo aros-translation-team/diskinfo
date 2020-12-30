@@ -1,5 +1,5 @@
 ## version $VER: diskinfo.catalog 2.0 (28.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 12
 ;
 ;
@@ -16,11 +16,11 @@ _TAMAM
 ; _OK
 ;
 MSG_ERROR_LOCALE
-Yerel ayar baÅŸlatÄ±lamÄ±yor.
+Yerel ayar baþlatýlamýyor.
 ; Can't initialize locale.
 ;
 MSG_ERROR_CLASSES
-Ã–zel sÄ±nÄ±flar baÅŸlatÄ±lamÄ±yor.
+Özel sýnýflar baþlatýlamýyor.
 ; Can't initialize custom classes.
 ;
 MSG_DESCRIPTION
@@ -32,7 +32,7 @@ MSG_PERCENTFULL
 ; %ld %% Full
 ;
 MSG_FORMAT
-BiÃ§imlendir
+Biçimlendir
 ; Format
 ;
 MSG_UNKNOWN
@@ -44,15 +44,15 @@ Olivier Adam
 ; Olivier Adam
 ;
 MSG_COPYRIGHT
-\xa9 2006-2019, AROS GeliÅŸtirme TakÄ±mÄ±
+\xa9 2006-2019, AROS Geliþtirme Takýmý
 ; \xa9 2006-2019, The AROS Development Team
 ;
 MSG_USED
-KullanÄ±lan alan
+Kullanýlan alan
 ; Used space
 ;
 MSG_FREE
-BoÅŸ alan
+Boþ alan
 ; Free space
 ;
 MSG_SIZE
@@ -80,15 +80,15 @@ Okunabilir
 ; Readable
 ;
 MSG_READABLE_WRITABLE
-Okunabilir/yazÄ±labilir
+Okunabilir/yazýlabilir
 ; Readable/writable
 ;
 MSG_VALIDATING
-DoÄŸrulanÄ±yor
+Doðrulanýyor
 ; Validating
 ;
 MSG_NAME
-Veri Birimi AdÄ±
+Veri Birimi Adý
 ; Volume Name
 ;
 MSG_UNIT
@@ -96,11 +96,11 @@ birim
 ; unit
 ;
 MSG_DOSDEVICE
-DOS AygÄ±tÄ±:
+DOS Aygýtý:
 ; DOS Device:
 ;
 MSG_DEVICEINFO
-BaÄŸlandÄ±:
+Baðlandý:
 ; Connected on:
 ;
 MSG_FILESYSTEM
@@ -108,10 +108,10 @@ Dosya Sistemi:
 ; FileSystem:
 ;
 MSG_PACKETDEVICE
-Paket Stili aygÄ±tÄ±
+Paket Stili aygýtý
 ; Packet Style device
 ;
 MSG_IOFSDEVICE
-IOFS Sitili aygÄ±tÄ±
+IOFS Sitili aygýtý
 ; IOFS Style device
 ;
