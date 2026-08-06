@@ -1,0 +1,116 @@
+## version $VER: diskinfo.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_TITLE
+Info o disku
+; Disk Info
+;
+MSG_ERROR_HEADER
+GREæKA
+; ERROR
+;
+MSG_ERROR_OK
+_OK
+; _OK
+;
+MSG_ERROR_LOCALE
+Ne mogu da inicijalizujem lokalizaciju.
+; Can't initialize locale.
+;
+MSG_ERROR_CLASSES
+Ne mogu da inicijalizujem korisniŸke klase.
+; Can't initialize custom classes.
+;
+MSG_DESCRIPTION
+Informacije o ikoni diska
+; Disk Icon Informations
+;
+MSG_PERCENTFULL
+%ld %% puno
+; %ld %% Full
+;
+MSG_FORMAT
+Format
+; Format
+;
+MSG_UNKNOWN
+Nepoznato
+; Unknown
+;
+MSG_AUTHOR
+Olivier Adam
+; Olivier Adam
+;
+MSG_COPYRIGHT
+\xa9 2006-2019, The AROS Development Team
+; \xa9 2006-2019, The AROS Development Team
+;
+MSG_USED
+Zauzet prostor
+; Used space
+;
+MSG_FREE
+Slobodan prostor
+; Free space
+;
+MSG_SIZE
+Kapacitet
+; Capacity
+;
+MSG_BLOCK_SIZE
+VeliŸina bloka
+; Block size
+;
+MSG_BLOCKS
+blokova
+; blocks
+;
+MSG_BYTES
+bajtova
+; bytes
+;
+MSG_STATUS
+Status
+; Status
+;
+MSG_READABLE
+Za Ÿitanje
+; Readable
+;
+MSG_READABLE_WRITABLE
+Za Ÿitanje/upis
+; Readable/writable
+;
+MSG_VALIDATING
+Validacija
+; Validating
+;
+MSG_NAME
+Ime diska
+; Volume Name
+;
+MSG_UNIT
+jedinica
+; unit
+;
+MSG_DOSDEVICE
+DOS ureÐaj:
+; DOS Device:
+;
+MSG_DEVICEINFO
+Povezan na:
+; Connected on:
+;
+MSG_FILESYSTEM
+Fajl sistem:
+; FileSystem:
+;
+MSG_PACKETDEVICE
+UreÐaj Packet tipa
+; Packet Style device
+;
+MSG_IOFSDEVICE
+UreÐaj IOFS tipa
+; IOFS Style device
+;

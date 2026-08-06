@@ -1,0 +1,116 @@
+## version $VER: diskinfo.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_TITLE
+Informació del disc
+; Disk Info
+;
+MSG_ERROR_HEADER
+ERROR
+; ERROR
+;
+MSG_ERROR_OK
+_D'acord
+; _OK
+;
+MSG_ERROR_LOCALE
+No es pot inicialitzar la localització.
+; Can't initialize locale.
+;
+MSG_ERROR_CLASSES
+No es poden inicialitzar les classes personalitzades.
+; Can't initialize custom classes.
+;
+MSG_DESCRIPTION
+Informació de la icona del disc
+; Disk Icon Informations
+;
+MSG_PERCENTFULL
+%ld %% Ple
+; %ld %% Full
+;
+MSG_FORMAT
+Formatar
+; Format
+;
+MSG_UNKNOWN
+Desconegut
+; Unknown
+;
+MSG_AUTHOR
+Olivier Adam
+; Olivier Adam
+;
+MSG_COPYRIGHT
+\xa9 2006-2019, The AROS Development Team
+; \xa9 2006-2019, The AROS Development Team
+;
+MSG_USED
+Espai usat
+; Used space
+;
+MSG_FREE
+Espai lliure
+; Free space
+;
+MSG_SIZE
+Capacitat
+; Capacity
+;
+MSG_BLOCK_SIZE
+Mida de bloc
+; Block size
+;
+MSG_BLOCKS
+blocs
+; blocks
+;
+MSG_BYTES
+bytes
+; bytes
+;
+MSG_STATUS
+Estat
+; Status
+;
+MSG_READABLE
+Llegible
+; Readable
+;
+MSG_READABLE_WRITABLE
+Lectura/escriptura
+; Readable/writable
+;
+MSG_VALIDATING
+Validant
+; Validating
+;
+MSG_NAME
+Nom del volum
+; Volume Name
+;
+MSG_UNIT
+unitat
+; unit
+;
+MSG_DOSDEVICE
+Dispositiu DOS:
+; DOS Device:
+;
+MSG_DEVICEINFO
+Connectat a:
+; Connected on:
+;
+MSG_FILESYSTEM
+Sistema de fitxers:
+; FileSystem:
+;
+MSG_PACKETDEVICE
+Dispositiu d'estil Packet
+; Packet Style device
+;
+MSG_IOFSDEVICE
+Dispositiu d'estil IOFS
+; IOFS Style device
+;
