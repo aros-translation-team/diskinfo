@@ -1,4 +1,4 @@
-## version $VER: diskinfo.catalog 1.0 (21.02.2004)
+## version $VER: diskinfo.catalog 2.0 (06.08.2026)
 ## language français
 ## codeset 0
 ;
@@ -25,6 +25,10 @@ MSG_PERCENTFULL
 ;
 MSG_FORMAT
 Formater
+;
+MSG_UNKNOWN
+Inconnu
+; Unknown
 ;
 MSG_AUTHOR
 Olivier Adam

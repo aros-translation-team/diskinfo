@@ -1,4 +1,4 @@
-## version $VER: diskinfo.catalog 1.0 (30.09.2007)
+## version $VER: diskinfo.catalog 2.0 (06.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -44,4 +44,72 @@ Olivier Adam
 ;
 MSG_COPYRIGHT
 ©2006 AROS Dev Team
+;
+MSG_USED
+Espaço usado
+; Used space
+;
+MSG_FREE
+Espaço livre
+; Free space
+;
+MSG_SIZE
+Capacidade
+; Capacity
+;
+MSG_BLOCK_SIZE
+Tamanho do bloco
+; Block size
+;
+MSG_BLOCKS
+blocos
+; blocks
+;
+MSG_BYTES
+caracteres
+; bytes
+;
+MSG_STATUS
+Estado
+; Status
+;
+MSG_READABLE
+Leitura
+; Readable
+;
+MSG_READABLE_WRITABLE
+Leitura/escrita
+; Readable/writable
+;
+MSG_VALIDATING
+A validar
+; Validating
+;
+MSG_NAME
+Nome do Volume
+; Volume Name
+;
+MSG_UNIT
+unidade
+; unit
+;
+MSG_DOSDEVICE
+Dispositivo DOS:
+; DOS Device:
+;
+MSG_DEVICEINFO
+Ligado a:
+; Connected on:
+;
+MSG_FILESYSTEM
+Sistema de Ficheiros:
+; FileSystem:
+;
+MSG_PACKETDEVICE
+Dispositivo tipo Packet
+; Packet Style device
+;
+MSG_IOFSDEVICE
+Dispositivo tipo IOFS
+; IOFS Style device
 ;
