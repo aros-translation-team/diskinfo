@@ -92,7 +92,7 @@ MSG_NAME
 ;Volume Name
 ;
 MSG_UNIT
-; номер
+номер
 ;unit
 ;
 MSG_DOSDEVICE
